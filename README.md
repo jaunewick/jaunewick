@@ -4,7 +4,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daniel+Giao!;" />
 </h1>
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Daniel-Giao/Daniel-Giao/output/github-contribution-grid-snake.svg" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" ssrc="https://raw.githubusercontent.com/Daniel-Giao/Daniel-Giao/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" src="https://raw.githubusercontent.com/Daniel-Giao/Daniel-Giao/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Daniel-Giao/Daniel-Giao/output/github-snake.svg" />
+  </picture>
+</p>
+
 <!--
 **Daniel-Giao/Daniel-Giao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
