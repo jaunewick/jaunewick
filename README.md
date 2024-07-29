@@ -4,6 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daniel+Giao!;" />
 </h1>
 
+<h3 align="center">Software Engineering Student & Born-again Mathematician</h3>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daniel-Giao/Daniel-Giao/output/github-snake-dark.svg" />
