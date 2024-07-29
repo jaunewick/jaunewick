@@ -11,6 +11,7 @@
     <img alt="github-snake" src="dist/github-snake.svg" />
   </picture>
 </p>
+---
 <!--
 **Daniel-Giao/Daniel-Giao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
