@@ -5,8 +5,6 @@
 
 <div align="center">    
     <h3>Software Engineering Student & Born-again Mathematician</h3>
-    <br>
-    <p>📫 How to reach me : <a href="mailto:daniel.giao@cloud.com">daniel.giao@icloud.com</a></p>
 </div>
 
 
