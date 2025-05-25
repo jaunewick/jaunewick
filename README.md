@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">    
-    <h3>Software Engineering Student @PolytechniqueMontréal</h3>
+    <h3>Software Engineering Student @Polytechnique Montréal</h3>
 </div>
 
 
