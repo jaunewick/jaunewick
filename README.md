@@ -6,13 +6,13 @@
 ## 💼 Work Experience
 
 - **Software Developer – Cloud Migration Team**  
-  *National Bank of Canada, Montreal* (Feb 2025 – Present)
+  *🏦 National Bank of Canada, Montreal, Quebec, Canada* (Feb 2025 – Present)
 
 - **Incoming Software Developer – Machine Learning Engineering Team**  
-  *Rakuten, Tokyo* (Upcoming)
+  *🎌 Rakuten, Tokyo, Japan* (Upcoming)
 
 - **Sessional Lecturer / Teaching Assistant – Discrete Mathematics Course**  
-  *Polytechnique Montréal, Montreal* (Jan 2023 – Dec 2023)
+  *🎓 Polytechnique Montréal, Montreal, Quebec, Canada* (Jan 2023 – Dec 2023)
 
 <p align="center">
   <picture>
