@@ -11,6 +11,9 @@
 - **Incoming Software Developer – Machine Learning Engineering Team**  
   🎌 *Rakuten, Tokyo, Japan* (Upcoming)
 
+- **Research Assistant – Script Concordance Test Implementation**  
+  🔬 *Harvard University / Polytechnique Montréal, Montreal, Quebec, Canada* (May 2023 – Aug 2023)
+
 - **Sessional Lecturer / Teaching Assistant – Discrete Mathematics Course**  
   🎓 *Polytechnique Montréal, Montreal, Quebec, Canada* (Jan 2023 – Dec 2023)
 
