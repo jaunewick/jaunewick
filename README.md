@@ -3,10 +3,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daniel+Giao!;" />
 </h1>
 
-<div align="center">    
-    <h3>Software Engineering Student @Polytechnique Montréal</h3>
-</div>
+## 💼 Work Experience
 
+- **Software Developer – Cloud Migration Team**  
+  *National Bank of Canada, Montreal* (Feb 2025 – Present)
+
+- **Incoming Software Developer – Machine Learning Engineering Team**  
+  *Rakuten, Tokyo* (Upcoming)
+
+- **Sessional Lecturer / Teaching Assistant – Discrete Mathematics Course**  
+  *Polytechnique Montréal, Montreal* (Jan 2023 – Dec 2023)
 
 <p align="center">
   <picture>
