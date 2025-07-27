@@ -5,7 +5,7 @@
 
 ## 💼 Work Experience
 
-- **Incoming Software Developer – Machine Learning Engineering Team**  
+- **Software Developer – Machine Learning Engineering Team**  
   🎌 *Rakuten, Tokyo, Japan* (Sep 2025 - Present)
   
 - **Software Developer – Cloud Migration Team**  
