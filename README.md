@@ -6,10 +6,10 @@
 ## 💼 Work Experience
 
 - **Incoming Software Developer – Machine Learning Engineering Team**  
-  🎌 *Rakuten, Tokyo, Japan* (Upcoming)
+  🎌 *Rakuten, Tokyo, Japan* (Sep 2025 - Present)
   
 - **Software Developer – Cloud Migration Team**  
-  🏦 *National Bank of Canada, Montreal, Quebec, Canada* (Feb 2025 – Present)
+  🏦 *National Bank of Canada, Montreal, Quebec, Canada* (Feb 2025 – Aug 2025)
 
 - **Research Assistant – Script Concordance Test Implementation**  
   🔬 *Harvard University / University of Montreal, Montreal, Quebec, Canada* (May 2023 – Aug 2023)
