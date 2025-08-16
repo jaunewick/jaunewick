@@ -1,19 +1,19 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 name: Generate Contribution Graph
 
-# Controls when the action will run.
-on:
-  schedule:
-      # every 12 hours
-    - cron: "0 */12 * * *"
+# # Controls when the action will run.
+# on:
+#   schedule:
+#       # every 12 hours
+#     - cron: "0 */12 * * *"
 
-  # This command allows us to run the Action automatically from the Actions tab.
-  workflow_dispatch:
+#   # This command allows us to run the Action automatically from the Actions tab.
+#   workflow_dispatch:
   
-  # Also run on every push on the master branch
-  push:
-    branches:
-    - main
+#   # Also run on every push on the master branch
+#   push:
+#     branches:
+#     - main
 
 # The sequence of runs in this workflow:
 jobs:
