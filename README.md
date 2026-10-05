@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jaunewick/jaunewick" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=750&height=70&duration=4000&lines=👋+Hajimemashite!;+Giao,+Daniel+desu!;+Doozo+yoroshiku+onegaishimasu!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=26&center=true&vCenter=true&width=750&height=70&duration=4000&lines=👋+Hi+there!;+I'm+Daniel+Giao;+Software+engineering+student+@+Polytechnique+Montréal;" />
 </h1>
 
 <p align="center">
